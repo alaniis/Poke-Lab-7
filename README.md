@@ -28,7 +28,7 @@
 <h2 id="indice">📚 Índice Interactivo</h2>
 
 <details open>
-  <summary><b>📌 Navega por el README</b> (click para plegar/desplegar)</summary>
+  <summary><b>📌 Navega por el README</b> </summary>
 
 - 🏁 <a href="#-poke-laboratorio-7-ensambles-de-votación-¡atrapa-el-mejor-modelo">Portada</a>
 - 🎯 <a href="#introducción-y-objetivos">Introducción y Objetivos</a>
@@ -224,25 +224,44 @@ El principio que sostiene a los tres votadores es el típico de la sinergia de t
 </p>
 
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
-<!-- 🎲 CURIOSIDADES POKÉ (decoración, no altera contenido)                      -->
+<!-- 🎲 CURIOSIDADES POKÉ (versión latino, más ganchos)                           -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
-<h2 id="curiosidades-poké">🎲 Curiosidades Poké</h2>
+<h2 id="curiosidades-poké">🎲 PokeCuriosidades </h2>
 
 <details>
-  <summary><b>👀 Click para ver datos aleatorios y sprites</b></summary>
+  <summary><b>👀 Toca para desplegar curiosidades que sí atrapan</b></summary>
 
-- 🔵 <b>Squirtle</b> (#7) puede lanzar chorros de agua con precisión a más de 50 m.
-- 🔥 <b>Charizard</b> (#6) registra peso oficial de ~90.5 kg (según versión del juego).
-- ⚡ <b>Pikachu</b> (#25) almacena electricidad en sus mejillas; su poder se mide por el brillo.
-- 💤 <b>Snorlax</b> (#143) duerme ~16 h diarias; su característica “Inmunidad” lo protege del envenenamiento.
-- 🧠 <b>Alakazam</b> (#65) se dice que recuerda todo desde que nació.
+- ⚡ **Pikachu**: su nombre mezcla *pika* (sonido de chispa en japonés) y *chu* (chillido de ratón). Literal: “ratón eléctrico”. El branding perfecto desde el nombre.
+- 🧪 **Mew**: no estaba planeado. Lo metieron casi al final al liberar espacio de depuración en Rojo/Azul… y terminó provocando la primera gran leyenda urbana de Kanto.
+- 🧬 **Ditto**: es el “comodín” de la crianza. Puede reproducirse con casi cualquiera compatible; por eso, si criaste competitivamente alguna vez, seguro usaste un Ditto.
+- 🌊 **Wailord**: enorme pero “ligero”. Mide 14.5 m y pesa ~398 kg; su cuerpo esponjoso explica esa densidad rarísima pensada para flotar como dirigible marino.
+- 🪄 **Shedinja**: 1 punto de vida y cara de “invencible”. Su habilidad **Wonder Guard** bloquea todo lo que no sea súper eficaz. Si no llevas cobertura, te barre gratis.
+- 💾 **MissingNo.**: el glitch más famoso. Un índice fuera de rango en Rojo/Azul que duplicaba objetos y rompía sprites. Ícono de speedruns y de la cultura de bugs.
+- 🥢 **Farfetch’d**: viene de un dicho japonés sobre “un pato que trae su propio puerro”, algo tan conveniente que parece puesto para servir… o para comérselo.
+- 🧱 **Shuckle**: récord de daño teórico. Con los buffs y objetos correctos puede registrar el golpe más alto posible del juego. Lento, sí; pero matemáticamente letal.
+- 🕯️ **Litwick**: guía a la gente… mientras le roba el calor del cuerpo. La línea evolutiva es adorable y al mismo tiempo una de las más siniestras del Dex.
+- ⏳ **Yamask**: carga una máscara con su antiguo rostro humano. Cuando la mira, llora. Unova trae de los lores más oscuros de toda la franquicia.
+- 🥊 **Primeape**: su furia no termina ni al morir. La Dex menciona que su espíritu sigue enojado; perfecto para esa vibra de “sweep” de enojo perpetuo.
+- 🧩 **Porygon**: es software hecho Pokémon. Porygon2 es “actualización estable” y Porygon-Z es “build corrupta”. Ciencia de datos pero con forma de mon.
+- 🌟 **Shiny odds**: ver un shiny “a la antigua” era 1/8192; desde Gen VI pasó a 1/4096 (sin amuleto ni cadenas). Aun así, toparte con uno sigue sintiéndose lotería.
+- 🎣 **Magikarp**: el meme del débil… que salta montañas pequeñas, según el Dex. Su biografía es una oda al “del 0 al héroe” cuando evoluciona a Gyarados.
+- 🧨 **Voltorb**: parece una Poké Ball por algo. El lore sugiere que nació cuando la energía de una Ball se mezcló con un Pokémon. De ahí su diseño “demasiado” simple.
 
 <p>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"   width="60" alt="Squirtle">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"  width="60" alt="Pikachu">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"   width="60" alt="Charizard">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png" width="60" alt="Snorlax">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"  width="60" alt="Alakazam">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"  width="52" alt="Pikachu">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png" width="52" alt="Mew">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" width="52" alt="Ditto">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png" width="52" alt="Wailord">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png" width="52" alt="Shedinja">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png"   width="52" alt="MissingNo placeholder">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"  width="52" alt="Farfetch’d">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png" width="52" alt="Shuckle">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png" width="52" alt="Litwick">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png" width="52" alt="Yamask">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"  width="52" alt="Primeape">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" width="52" alt="Porygon">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png" width="52" alt="Magikarp">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png" width="52" alt="Voltorb">
 </p>
 
 </details>
