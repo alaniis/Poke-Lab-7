@@ -209,6 +209,9 @@ El principio que sostiene a los tres votadores es el típico de la sinergia de t
 
 #  Estructura del repositorio
 
+<details>
+
+<pre>
 PokeLab 7/
 ├── data/
 │   ├── pokemon_samples_500.csv
@@ -220,6 +223,9 @@ PokeLab 7/
 │   ├── Lab_ML_P7.pdf
 │   └── Cuestionario.pdf
 └── README.md
+</pre>
+</details>
+
 
 <p align="center">
   <img src="https://svgur.com/i/12Xo.svg" alt="" width="65%">
