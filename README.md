@@ -209,13 +209,17 @@ El principio que sostiene a los tres votadores es el típico de la sinergia de t
 
 #  Estructura del repositorio
 
-<ul>
-  <li>📂 <b>data/</b> — CSV canónico, muestra estratificada (500), etc.</li>
-  <li>🧪 <b>notebooks/</b> — experimentos reproducibles (EDA, modelos, ensambles).</li>
-  <li>🧰 <b>src/</b> — pipelines, utilidades de muestreo, preprocesamiento.</li>
-  <li>📜 <b>reports/</b> — informe final, métricas y comparativas.</li>
-  <li>⚙️ <b>configs/</b> — parámetros, seeds, listas negras (sin boosters).</li>
-</ul>
+PokeLab 7/
+├── data/
+│   ├── pokemon_samples_500.csv
+│    ├── pokemon_full.csv
+│   └── pokemon_predictions.csv
+├── notebooks/
+│   └── ML_Lab7_Snorlax.ipynb
+├── docs/
+│   ├── Lab_ML_P7.pdf
+│    └── Cuestionario.pdf
+└── README.md
 
 <p align="center">
   <img src="https://svgur.com/i/12Xo.svg" alt="" width="65%">
