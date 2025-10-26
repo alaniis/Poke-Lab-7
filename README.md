@@ -43,8 +43,6 @@
 
 ---
 
-# *Poke-Laboratorio 7: Ensambles de Votación: ¡Atrapa el mejor modelo!*
-
 ## *Introducción y Objetivos*
 
 > 🎒 **Misión del entrenador:** Explorar la PokéAPI, construir un CSV canónico, definir *PowerScore* y la etiqueta `strong`, y preparar el terreno para combinar modelos como si armaras tu equipo de la Liga.  
