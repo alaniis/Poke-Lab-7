@@ -212,13 +212,13 @@ El principio que sostiene a los tres votadores es el típico de la sinergia de t
 PokeLab 7/
 ├── data/
 │   ├── pokemon_samples_500.csv
-│    ├── pokemon_full.csv
+│   ├── pokemon_full.csv
 │   └── pokemon_predictions.csv
 ├── notebooks/
 │   └── ML_Lab7_Snorlax.ipynb
 ├── docs/
 │   ├── Lab_ML_P7.pdf
-│    └── Cuestionario.pdf
+│   └── Cuestionario.pdf
 └── README.md
 
 <p align="center">
