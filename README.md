@@ -73,10 +73,11 @@ Entonces el objetivo de este laboratotio es construir un dataset reproducible de
 | *José Vera Garfias*              | Metagross (Calibración / Clarividencia)     | Maestro de Calibración y Evaluación (Métricas y visualización) | Calcula **AUC-PR**, **Brier** y **ECE**; genera *reliability diagrams* y curvas PR; aplica **calibración** (Platt/Isotónica) antes de votación suave; fija *seeds* y *splits* reproducibles; empaqueta resultados y figuras. |
 
 <p>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png"  width="50" alt="Rotom">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"   width="50" alt="Alakazam">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png"  width="50" alt="Metagross">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"  width="50" alt="Dragonite">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png"  width="50" alt="Rotom">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"   width="50" alt="Alakazam">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png"  width="50" alt="Metagross">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"  width="50" alt="Dragonite">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png"  width="50" alt="Gardevoir">
 </p>
 
 ---
